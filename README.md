@@ -4,9 +4,9 @@ App mobile para cadastro e gerenciamento de avaliacoes de clientes, desenvolvido
 
 ## Tecnologias
 
-- [React Native 0.81.5](https://reactnative.dev/)
-- [Expo 54](https://expo.dev/)
-- Backend REST em Node.js hospedado no [Render](https://render.com/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- Backend REST em Node.js
 
 ## Funcionalidades
 
