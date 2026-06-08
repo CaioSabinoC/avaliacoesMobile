@@ -34,9 +34,9 @@ npx expo start
 Escaneie o QR code com o Expo Go (Android) ou com a camera (iOS).
 
 ## Estrutura
-App.js       # Tela principal com formulario e lista
-api.js       # Funcoes de comunicacao com o backend
-assets/      # Logo e imagem de fundo
+├── App.js       # Tela principal com formulario e lista
+├── api.js       # Funcoes de comunicacao com o backend
+└── assets/      # Logo e imagem de fundo
 
 ## Backend
 
